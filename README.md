@@ -28,3 +28,8 @@ Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap
 - Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
 - Boas práticas com importação de imagens;
 - A manter as estilizações nos arquivos de estilo;
+
+### Na aula 5:
+
+- Tornar um site responsivo;
+- Configurar a adaptação do site a diferentes tamanhos de tela;
