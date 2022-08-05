@@ -16,3 +16,15 @@ Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap
 
 - Um padrão para nomear as classes de CSS;
 - Conhecer a Metodologia BEM e aplicá-la ao código;
+
+### Na aula 3:
+
+- Organização e estrutura de arquivos .css;
+- Separação de responsabilidades;
+- A criar e manter arquivos menores;
+
+### Na aula 4:
+
+- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
+- Boas práticas com importação de imagens;
+- A manter as estilizações nos arquivos de estilo;
